@@ -1,0 +1,9 @@
+[
+  {
+    "key": "question",
+    "label": "User Query",
+    "description": "Text prompt from the user",
+    "type": "string",
+    "required": true
+  }
+]

@@ -1,0 +1,10 @@
+fastapi[standard]
+uvicorn[standard]
+streamlit
+google-genai
+python-dotenv
+requests
+chromadb
+sentence-transformers
+transformers
+torch
